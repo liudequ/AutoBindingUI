@@ -1,0 +1,11 @@
+AAASprite		        -- aaa  -- Label
+BBBLable 		        -- bbb
+Item 					-- item
+{
+	DDDSprite			-- ddd
+	EEELable 			-- eee
+	Item 				-- item			
+	{
+		FFFSprite 		-- fff
+	}
+}
