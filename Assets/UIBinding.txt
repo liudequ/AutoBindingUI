@@ -1,4 +1,4 @@
-AAASprite		        -- aaa  -- Label
+AAASprite		        -- aaa  
 BBBLable 		        -- bbb
 Item 					-- item
 {
